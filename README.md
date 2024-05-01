@@ -4,6 +4,7 @@ Put them in a folder named room_classification\
 Double click on room_classification.ino to open it using ArduioIDE.\
 Connect TinyML kit with pc.\
 Upload sketch.
+(Optional) Download Display_images&Results.py and run in on PC to see the image captured along with Prediction and confidence scores.
 
 **How to train the model and get room_cassification.h?** \
 Download Folders bedroom_class_lift_train, bedroom_class_lift_train, Training_CNN_model.ipynb\
