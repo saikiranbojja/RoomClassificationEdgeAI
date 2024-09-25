@@ -1,4 +1,6 @@
 **How to run the model on TinyML kit?** \
+Link for Video Demo https://youtu.be/gmPGQqUhgyw
+
 Download  room_classification.ino , room_classification.h\
 Put them in a folder named room_classification\
 Double click on room_classification.ino to open it using ArduioIDE.\
